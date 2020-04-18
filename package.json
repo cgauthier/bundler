@@ -1,0 +1,9 @@
+{
+    "name": "bundler",
+    "version": "1.0.0",
+    "devDependencies": {
+        "@babel/cli": "^7.0.0",
+        "@babel/core": "^7.0.0",
+        "@babel/parser": "^7.0.0"
+    }
+}
